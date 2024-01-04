@@ -7,6 +7,7 @@ It’s been two weeks since you were hired as a new data engineer at Pewlett Hac
 For this project, you’ll design the tables to hold the data from the CSV files, import the CSV files into a SQL database, and then answer questions about the data. That is, you’ll perform data modeling, data engineering, and data analysis, respectively.
 
 ## Data Modeling
+Help taken from BCS Learning to understand data modeling. 
 
 ## Data Engineering
 Create a table schema for each of the six CSV files. Be sure to do the following:
