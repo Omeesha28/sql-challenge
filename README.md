@@ -9,9 +9,6 @@ For this project, you’ll design the tables to hold the data from the CSV files
 ## Data Modeling
 Help taken from BCS Learning to understand data modeling. 
 
-![output](QuickDBD-Free Diagram.png)
-
-
 ## Data Engineering
 Create a table schema for each of the six CSV files. Be sure to do the following:
 
